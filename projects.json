@@ -2,13 +2,7 @@
 	{
 		"title": "Neon Rush",
 		"description": "Neon Rush is a PC arcade racer that blends high-speed racing with cinematic chases and stunts.",
-		"tags": [
-			"Unreal",
-			"C++",
-			"Game Development",
-			"3D",
-			"Racing"
-		],
+		"tags": ["Unreal","C++","Game Development","3D"],
 		"image": "images/Neon_Rush.jpg",
 		"links": [
 			{
@@ -28,5 +22,18 @@
 				"href": "https://github.com/JasonSong1221/TestCampusOnlyTeam1"
 			}
 		]
+	},
+	{
+		    "title": "Hyper-Racer",
+    "description": "A F1 racing demo against AI, can YOU win?",
+    "tags": [ "Vulkan", "C++", "Racing" ],
+    "image": "images/F1_Race.jpg",
+    "links": [
+			{
+				"label": "Github",
+				"href": "https://github.com/FSProjectPortfolioV/dev5-team-project-2508-blue"
+			}
+    ]
+  
 	}
 ]
