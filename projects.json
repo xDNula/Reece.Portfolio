@@ -1,69 +1,18 @@
 [
 	{
-		"title": "F1_Race",
-		"description": "A 2.5D racing game made with vulkan rendering, can YOU win?",
+		"title": "Neon Rush",
+		"description": "Neon Rush is a PC arcade racer that blends high-speed racing with cinematic chases and stunts.",
 		"tags": [
-			"Vulkan",
+			"Unreal",
 			"C++",
 			"Game Development",
-			"2.5D"
+			"3D"
 		],
-		"image": "images/F1_Race.jpg",
-		"links": [
-			{
-				"label": "GitHub",
-				"href": "https://fsuteam.itch.io/neon-rush"
-			}
-		]
-	},
-	{
-		"title": "Cyber Rayne",
-		"description": "A cyberpunk-themed JRPG featuring pixel-art graphics and Vulkan-based rendering.",
-		"tags": [
-			"C++",
-			"Vulkan",
-			"Game Development",
-			"JRPG"
-		],
-		"image": "images/cyber-rayne.png",
-		"links": [
-			{
-				"label": "GitHub",
-				"href": "https://github.com/Roanger/Cyber_Rayne"
-			}
-		]
-	},
-	{
-		"title": "Tinker Action RPG",
-		"description": "A work-in-progress Action RPG developed in Godot 4.4, featuring a flexible class system and dynamic combat.",
-		"tags": [
-			"Godot",
-			"GDScript",
-			"Action RPG",
-			"In Development"
-		],
-		"image": "images/Tinker_Title_Screen.png",
-		"links": [
-			{
-				"label": "GitHub",
-				"href": "https://github.com/Roanger/ActionRPG-In_Progress-"
-			}
-		]
-	},
-	{
-		"title": "Iron Reclamation",
-		"description": "A first / third person action game developed in Unreal Engine 5 and C++, featuring responsive combat and custom character assets.",
-		"tags": [
-			"Unreal Engine 5",
-			"C++",
-			"Action",
-			"Team Project"
-		],
-		"image": "images/IronReclamationBanner.png",
+		"image": "images/Neon_Rush.jpg",
 		"links": [
 			{
 				"label": "Itch.io",
-				"href": "https://lghts.itch.io/iron-reclamation"
+				"href": "https://fsuteam.itch.io/neon-rush"
 			}
 		]
 	}
