@@ -15,5 +15,17 @@
 				"href": "https://fsuteam.itch.io/neon-rush"
 			}
 		]
+	},
+	{
+		"title": "Dead Rising",
+		"description": "A fan remake of the classic zombie survival game, built using Unreal Engine.",
+		"tags": [ "Unity", "C++", "Zombies" ],
+		"image": "images/Dead_Rising.jpg",
+		"links": [
+			{
+				"label": "Github",
+				"href": "https://github.com/JasonSong1221/TestCampusOnlyTeam1"
+			}
+		]
 	}
 ]
